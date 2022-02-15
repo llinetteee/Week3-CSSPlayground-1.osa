@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Indie+Flower&display=swap');
+
+body {
+    background-color: lightslategray ;
+}
+
+.heading {
+    text-align: center
+}
+
+.playground-heading {
+    color:plum;
+    font-family: 'Indie Flower', cursive;
+    font-size: 5rem ;
+}
+
+.main {
+    border: 3px solid lightgray;
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 1rem auto;
+}
+
+#purple {
+    border-color: purple;
+}
+
+#darkgrey {
+    border-color: darkgrey;
+}
+
+#darkcyan {
+    border-color: darkcyan;
+}
+
+.footer {
+    font-family:'Fleur De Leah', cursive; ;
+    font-size: 2rem;
+    text-align: center;
+    color: plum;
+}
